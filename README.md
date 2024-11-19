@@ -1,16 +1,16 @@
 # Traffic_light_controller_Synthesis
 
-# Aim:
+## Aim:
 
 Synthesize Traffic Light Controller design using Constraints and analyse area and Power reports.
 
-# Tool Required:
+## Tool Required:
 
 Functional Simulation: Incisive Simulator (ncvlog, ncelab, ncsim)
 
 Synthesis: Genus
 
-# Step 1: Getting Started
+### Step 1: Getting Started
 
 Synthesis requires three files as follows,
 
@@ -18,11 +18,11 @@ Synthesis requires three files as follows,
 
 ◦ Verilog/VHDL Files (.v or .vhdl or .vhd)
 
-# Step 2 : Creating an SDC File
+### Step 2 : Creating an SDC File
 
 •	In your terminal type “gedit input_constraints.sdc” to create an SDC File if you do not have one.
 
-# Step 3 : Performing Synthesis
+### Step 3 : Performing Synthesis
 
 The Liberty files are present in the library path,
 
